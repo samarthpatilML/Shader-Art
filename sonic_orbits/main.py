@@ -9,6 +9,7 @@ ctx = moderngl.create_context()
 audio = AudioAnalyzer()
 scene = Scene(ctx)
 
+
 @window.event
 def on_draw():
     scene.render(window, audio)
