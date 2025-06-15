@@ -1,1 +1,1 @@
- pixel painting
+ pixel paintings
